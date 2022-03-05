@@ -1,0 +1,36 @@
+﻿<Window x:Class="creatingNotepad.Notepad"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:creatingNotepad"
+        mc:Ignorable="d"
+        Closing="Window_Closing"
+        Title="Notepad" Height="450" Width="700">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" Height="17">
+            <MenuItem Header="_File">
+                <MenuItem Header="_New" Click="MenuNew_Click"/>
+                <MenuItem Header="_Open" Click="MenuOpen_Click"/>
+                <MenuItem Header="_Save As" Click="MenuSaveAs_Click"/>
+                <Separator/>
+                <MenuItem Header="_Close" Click="MenuClose_Click"/>
+            </MenuItem>
+            <MenuItem Header="_Options">
+                <MenuItem Header="Word Wrap"/>
+                <MenuItem Header="Font"/>
+            </MenuItem>
+            <MenuItem Header="_Help">
+                <MenuItem Header="_About" Click="MenuAbout_Click" />
+            </MenuItem>
+        </Menu>
+        <StatusBar DockPanel.Dock="Bottom" Height="25">
+            <StatusBarItem>
+                <TextBlock x:Name="characterCount" />
+            </StatusBarItem>
+        </StatusBar>
+        <ScrollBar DockPanel.Dock="Right"  />
+        <TextBox x:Name="richText"  DockPanel.Dock="Bottom" Background="White" TextWrapping="Wrap" AcceptsTab="True" AcceptsReturn="True" SelectionChanged="characterCount_SelectionChanged" />
+
+    </DockPanel>
+</Window>

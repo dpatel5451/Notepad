@@ -1,0 +1,17 @@
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\bin\Debug\creatingNotepad.exe.config
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\bin\Debug\creatingNotepad.exe
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\bin\Debug\creatingNotepad.pdb
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\obj\Debug\creatingNotepad.csproj.AssemblyReference.cache
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\obj\Debug\MainWindow.g.cs
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\obj\Debug\App.g.cs
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\obj\Debug\creatingNotepad_MarkupCompile.cache
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\obj\Debug\creatingNotepad_MarkupCompile.lref
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\obj\Debug\MainWindow.baml
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\obj\Debug\creatingNotepad.g.resources
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\obj\Debug\creatingNotepad.Properties.Resources.resources
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\obj\Debug\creatingNotepad.csproj.GenerateResource.cache
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\obj\Debug\creatingNotepad.csproj.CoreCompileInputs.cache
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\obj\Debug\creatingNotepad.exe
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\obj\Debug\creatingNotepad.pdb
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\obj\Debug\Window1.g.cs
+C:\Users\dek26\OneDrive\Desktop\CONESTOGA\SEM-3\Windows Programming\A-02\creatingNotepad\obj\Debug\Window1.baml
